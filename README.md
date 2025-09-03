@@ -220,5 +220,3 @@ mvn clean install
 5. Abra um Pull Request
 
 ---
-
-**Desenvolvido com ❤️ usando Angular + Spring Boot**
