@@ -1,0 +1,12 @@
+com/kanban/model/Task.class
+com/kanban/model/Task$Status.class
+com/kanban/KanbanApplication.class
+com/kanban/repository/TaskRepository.class
+com/kanban/service/ColumnService.class
+com/kanban/controller/TaskController$StatusUpdateRequest.class
+com/kanban/repository/ColumnRepository.class
+com/kanban/controller/ColumnController.class
+com/kanban/model/BoardColumn.class
+com/kanban/controller/TaskController.class
+com/kanban/model/Task$Priority.class
+com/kanban/service/TaskService.class

@@ -1,0 +1,9 @@
+/home/joao/projeto/backend/src/main/java/com/kanban/model/Task.java
+/home/joao/projeto/backend/src/main/java/com/kanban/controller/TaskController.java
+/home/joao/projeto/backend/src/main/java/com/kanban/service/TaskService.java
+/home/joao/projeto/backend/src/main/java/com/kanban/repository/TaskRepository.java
+/home/joao/projeto/backend/src/main/java/com/kanban/service/ColumnService.java
+/home/joao/projeto/backend/src/main/java/com/kanban/KanbanApplication.java
+/home/joao/projeto/backend/src/main/java/com/kanban/model/BoardColumn.java
+/home/joao/projeto/backend/src/main/java/com/kanban/controller/ColumnController.java
+/home/joao/projeto/backend/src/main/java/com/kanban/repository/ColumnRepository.java
